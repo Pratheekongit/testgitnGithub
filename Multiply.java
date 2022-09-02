@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Multiply {
+public class Multiply {
+    public static void main(String[] args) {
+        //nfjsdnfiasdnfisadnfiasn
+    }
 }
